@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "444367472975",
+    "project_id": "projetstudi-ecf",
+    "storage_bucket": "projetstudi-ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444367472975:android:6a63d2e703833843775d3a",
+        "android_client_info": {
+          "package_name": "com.pzm.projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWQdW1-2znNEju2FQ94lgMyTpLCVkGdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444367472975:android:99d1521d2c6ec3bb775d3a",
+        "android_client_info": {
+          "package_name": "com.pzm.applicationbuperbowl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWQdW1-2znNEju2FQ94lgMyTpLCVkGdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444367472975:android:c13465079c9d52db775d3a",
+        "android_client_info": {
+          "package_name": "com.pzm.projet_studi_ecf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWQdW1-2znNEju2FQ94lgMyTpLCVkGdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

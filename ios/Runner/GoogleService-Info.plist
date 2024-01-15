@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>419463214674-bnmdbt9nc09bk7125po5vp0e1cq2rcjh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.419463214674-bnmdbt9nc09bk7125po5vp0e1cq2rcjh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAKDjuer0K5b8izOnLswMenDZCeI9rn1s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>419463214674</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.barbercorp.barberoom</string>
+	<key>PROJECT_ID</key>
+	<string>barberoomv4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>barberoomv4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:419463214674:ios:13913ad60e3a95305a118b</string>
+</dict>
+</plist>
